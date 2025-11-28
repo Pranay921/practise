@@ -1,1 +1,2 @@
+new stage text
 new text file fom main 
